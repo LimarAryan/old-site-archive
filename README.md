@@ -1,6 +1,6 @@
 # LimarAryan.github.io
-portfolio - https://limararyan.github.io/
+[Portfolio](https://limararyan.github.io/)
 
 Projects:
 
-1 - Digital Clock - [LimarAryan.github.io/DigitalClock.html](https://limararyan.github.io/DigitalClock.html)
+1 - [Digital Clock](https://limararyan.github.io/projects/digital_clock/DigitalClock.html)
