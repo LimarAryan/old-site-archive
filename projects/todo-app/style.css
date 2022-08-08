@@ -37,7 +37,7 @@ header h1{
 }
 
 #new-task-form {
-	display: flex;;
+	display: flex;
 }
 
 input, button {
@@ -154,3 +154,13 @@ main {
 .task .actions .delete {
 	color: crimson;
 }
+
+#back-link{
+	background-image: linear-gradient(to right, var(--pink), var(--purple));
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+}
+
+/* #back-link:hover{
+	color:blue;
+} */
