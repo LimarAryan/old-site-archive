@@ -5,4 +5,4 @@ Projects:
 
 1 - [Digital Clock](https://limararyan.github.io/projects/digital_clock/DigitalClock.html)
 
-2 - [To Do List]
+2 - [To Do List](https://limararyan.github.io/projects/todo-app/index.html)
