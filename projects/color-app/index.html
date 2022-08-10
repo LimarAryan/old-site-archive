@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Color App</title>
+        <link rel="stylesheet" href="style.css">
+        <script src="main.js"></script>
+    </head>
+
+
+    <body>
+
+        <!--div to create color box and for drop down menu-->
+        <div id="box"></div>
+        <select onchange="changeBackground(this)">
+            <option value ="red">Red</option>
+            <option value = "blue">Blue</option>
+            <option value = "green">Green</option>
+        </select>
+        <!--end div-->
+
+
+        <!--line breaks-->
+        <br>
+        <br>
+        <!--end line breaks-->
+
+            <!--text input box-->
+            <input type="text" id="colorInputText">
+            <input type="button" id = "colorButton" value="Click to change color" onclick = "changeColor()">
+           
+            <p>Try typing "yellow"</p>
+            <p>You can type rgb or hexadecimals too</p>
+            <!--end text input box-->
+        
+        <!--line breaks-->
+        <br>
+        <br>
+        <!--end line breaks-->
+
+
+        <!--color value selector-->
+        <input type="color" id="colorInputColor">
+        <input type="button" value="Click to change Color" onclick = changeColor2()>
+        <!--end color value selector-->
+        
+        <br>
+        <a href = https://limararyan.github.io>Back to main</a>
+
+        <!--javascript-->
+        <script>
+            function changeColor(){
+                let color = document.getElementById("colorInputText").value;
+                var box = document.getElementById("box");
+                box.style.backgroundColor = color;
+}
+            function changeColor2(){
+                let color = document.getElementById("colorInputColor").value;
+                var box = document.getElementById("box");
+                box.style.backgroundColor = color;
+}
+        </script>
+    </body>
+</html>
