@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tech Blog | Limar Aryan</title>
+    <link>https://example.org/</link>
+    <description>Recent content on Tech Blog | Limar Aryan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 28 Jan 2024 23:04:52 -0500</lastBuildDate>
+    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>https://example.org/blog/my-new-post/</link>
+      <pubDate>Sun, 28 Jan 2024 23:04:52 -0500</pubDate>
+      <guid>https://example.org/blog/my-new-post/</guid>
+      <description>##Introduction&#xA;Hey everyone, this is the first post on my Tech Blog I hope you all enjoy it while things are still under construction!</description>
+    </item>
+    <item>
+      <title>My New Page</title>
+      <link>https://example.org/my-new-page/</link>
+      <pubDate>Sun, 28 Jan 2024 23:04:42 -0500</pubDate>
+      <guid>https://example.org/my-new-page/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>My First Post</title>
+      <link>https://example.org/posts/my-first-post/</link>
+      <pubDate>Sun, 28 Jan 2024 22:59:33 -0500</pubDate>
+      <guid>https://example.org/posts/my-first-post/</guid>
+      <description>Introduction This is bold text, and this is emphasized text.&#xA;Visit the Hugo website!</description>
+    </item>
+  </channel>
+</rss>
