@@ -1,10 +1,9 @@
-# LimarAryan.github.io
-[Portfolio](https://limararyan.github.io/)
+# Past portfolio website archive
 
-Projects:
+Past Projects:
 
-1 - [Digital Clock](https://limararyan.github.io/projects/digital_clock/DigitalClock.html)
+1 - [Digital Clock]
 
-2 - [To Do List](https://limararyan.github.io/projects/todo-app/index.html)
+2 - [To Do List]
 
-2 - [Color App](https://limararyan.github.io/projects/color-app/index.html)
+2 - [Color App]
