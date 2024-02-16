@@ -2,8 +2,8 @@
 
 Past Projects:
 
-##Digital Clock
+## 1. Digital Clock
 
-##To Do List
+## 2. To Do List
 
-##Color App
+## 3. Color App
