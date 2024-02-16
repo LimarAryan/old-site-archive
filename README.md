@@ -1,9 +1,9 @@
-# Past portfolio website archive
+## Old portfolio website archive
 
 Past Projects:
 
-## 1. Digital Clock
+### 1. Digital Clock
 
-## 2. To Do List
+### 2. To Do List
 
-## 3. Color App
+### 3. Color App
